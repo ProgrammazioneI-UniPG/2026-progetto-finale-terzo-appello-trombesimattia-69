@@ -5,7 +5,6 @@
 #include "gamelib.h"
 #include <time.h>
 int main() {
-   srand(time(NULL));
    stampa_logo_ufficiale();
    
     printf("\033[1;31m"); 
