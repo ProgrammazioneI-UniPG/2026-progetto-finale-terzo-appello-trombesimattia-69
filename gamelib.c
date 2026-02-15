@@ -1013,7 +1013,7 @@ static int cambia_mondo(int indice_giocatore) {
                 
 
                                             
-                int scelta = leggi_pulito(1, 9); // Pulisce buffer
+                int scelta = leggi_pulito(1, 9); 
 
                 switch(scelta){
                     case 1: 
