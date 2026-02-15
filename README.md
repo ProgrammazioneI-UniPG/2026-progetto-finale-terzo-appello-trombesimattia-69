@@ -2,11 +2,16 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Mattia
 
-## Cognome: 
+## Cognome: Trombesi
 
-## Matricola:
+## Matricola: 396404
 
-## Commenti/modifiche al progetto:
+## Commenti/modifiche al progetto: 
+Funzione Riposa: Aggiunta nel menu gioco per recuperare HP sacrificando un turno 
+Funzione Pulisci_Schermo : Aggiunta per mantenere un interfaccia pulita e leggibile tra un turno e l'altro
+Funzione Leggi_Pulito: Aggiunta per garantire un input sicuro senza errori di distrazione
+
+
 
