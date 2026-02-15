@@ -10,7 +10,9 @@ Progetto finale Programmazione Procedurale UniPG Informatica
 
 ## Commenti/modifiche al progetto: 
 Funzione Riposa: Aggiunta nel menu gioco per recuperare HP sacrificando un turno 
+
 Funzione Pulisci_Schermo : Aggiunta per mantenere un interfaccia pulita e leggibile tra un turno e l'altro
+
 Funzione Leggi_Pulito: Aggiunta per garantire un input sicuro senza errori di distrazione
 
 
